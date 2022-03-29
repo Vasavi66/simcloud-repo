@@ -1,0 +1,113 @@
+Why do we use git stash?
+Using the git stash command, developers can temporarily shelve changes made in the working directory. It allows them to quickly switch contexts when they are not quite ready to commit changes. And it allows them to more easily switch between branches.Oct 21, 2019
+
+How to Use Git Stash - Perforce Softwarehttps://www.perforce.com › blog › vcs › git-beyond-basic...
+Search for: Why do we use git stash?
+When should I use git stash?
+How do I get my files back from git Stash?
+Will git reset remove Stash?
+Where are git stashes stored?
+How do I view git stash?
+How do I view files in git stash?
+Do I need to commit before stash?
+What is stash and checkout?
+How do I uninstall stash?
+Feedback
+
+git stash - Saving Changes | Atlassian Git Tutorialhttps://www.atlassian.com › git › tutorials › git-stash
+git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them ...
+‎Stashing untracked or ignored... · ‎Viewing stash diffs · ‎Partial stashes
+
+A practical guide to using the git stash commandhttps://opensource.com › article › git-stash
+Apr 2, 2021 — Git stash saves the uncommitted changes locally, allowing you to make changes, switch branches, and perform other Git operations.
+Videos
+
+PREVIEW
+3:13
+How to Git Stash [Intermediate Git Tutorial]
+YouTube · GitKraken
+Mar 17, 2021
+6 key moments in this video
+
+9:45
+Git STASH Explained in Simple Words
+YouTube · Academind
+Aug 22, 2018
+10 key moments in this video
+
+10:33
+Git Tutorial: Using the Stash Command
+YouTube · Corey Schafer
+Apr 17, 2015
+10 key moments in this video
+Feedback
+View all
+
+Git Stash - javatpointhttps://www.javatpoint.com › git-stash
+Generally, the stash's meaning is "store something safely in a hidden place." The sense in Git is also the same for stash; Git temporarily saves your data ...
+
+Can someone explain what is git stash / pop? - Reddithttps://www.reddit.com › git › comments › can_someo...
+4 days ago — Git stash is basically a way of saying "I'm part-way through the work of the next commit, but I have to switch gears for a second, so stash ...
+
+Git Stash - Visual Studio Marketplacehttps://marketplace.visualstudio.com › items › itemNam...
+Sep 12, 2021 — Add extra git stash powers to VS Code. Features. Configurable explorer tree. Labels, descriptions, icons, tooltips, decorations; Text to send to ...
+
+Saving Changes with Git Stash | CraftQuesthttps://craftquest.io › articles › saving-changes-with-git-...
+Use git stash when you want to record the current state of the working directory and the index, but want to go back to a clean working directory. The command ...
+Images for git stash
+
+git config
+
+visual studiostudio code
+
+git pull
+
+vscode
+
+git rebase
+
+pop
+
+git reset
+
+untracked files
+
+laptop
+
+git commit
+
+stash applyvs code
+
+changes
+
+branch
+Image result for git stash
+Image result for git stash
+Image result for git stash
+Image result for git stash
+Image result for git stash
+Image result for git stash
+Image result for git stash
+Image result for git stash
+Image result for git stash
+Image result for git stash
+View all
+Feedback
+View all
+Related searches
+
+Stash
+
+Merge
+
+diff
+
+Branching
+
+Commit
+See more
+Feedback
+git stash example
+git stash pop
+git stash changes
+git stash and unstash
